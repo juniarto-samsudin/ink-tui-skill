@@ -5,10 +5,10 @@ Agent skill for building terminal user interfaces with [Ink](https://github.com/
 ## Install
 
 ```bash
-npx skills add <your-github-username>/ink-tui-skill
+npx skills add juniarto-samsudin/ink-tui-skill
 ```
 
-After the repository is published, replace `<your-github-username>` with your GitHub owner name.
+Replace the owner name if you publish a fork under a different GitHub account.
 
 ## What It Covers
 
@@ -43,5 +43,5 @@ ink-tui-skill/
 Update the owner name after publishing:
 
 ```md
-[![skills.sh](https://skills.sh/b/<your-github-username>/ink-tui-skill)](https://skills.sh/<your-github-username>/ink-tui-skill)
+[![skills.sh](https://skills.sh/b/juniarto-samsudin/ink-tui-skill)](https://skills.sh/juniarto-samsudin/ink-tui-skill)
 ```
